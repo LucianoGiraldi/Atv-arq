@@ -1,3 +1,9 @@
+##ALUNOS:
+   - LUCIANO GIRALDI DE ANDRADE FILHO RA:22228890-2
+   - GUSTAVO HENRIQUE CORDEIRO MESQUITA RA:21099392-2
+   - GUSTAVO DOS SANTOS ARNONI RA:22014037-2
+
+
 # Sistema SOA para Análise de Tendência de Nomes no Brasil
 
 Este projeto implementa um sistema orientado a serviços (SOA) para análise de tendências de nomes próprios no Brasil, utilizando dados da API do IBGE.
